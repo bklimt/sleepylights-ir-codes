@@ -1,4 +1,5 @@
-# sleepylights-ir-codes
+# SleepyLights IR Remote Control Codes
+Decoded IR remote control codes for the SleepyLights night lights (http://amzn.to/2l8FCjM).
 
 ## power button
 Encoding  : NEC
