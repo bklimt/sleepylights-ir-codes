@@ -83,6 +83,7 @@ Code      : FF7887 (32 bits)
 
 ## rainbow button
 Encoding  : NEC
+
 Code      : FF708F (32 bits)
 
 ## lamp button
